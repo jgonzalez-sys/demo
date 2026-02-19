@@ -1,1 +1,1 @@
-# servidor basico de nodeJs
+README editado desde un agente con el protocolo MCP
